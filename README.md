@@ -22,6 +22,18 @@ There aren't many things you could call a serious project, however here is a sho
 ![Eclipse](https://img.shields.io/static/v1?label=Eclipse-IDE&message=2020-6&style=for-the-badge&color=Cb812C&logo=eclipse)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=191717&style=for-the-badge&logo=github)
 
+## Stats!
+<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&title_color=4F8CC9&hide_border=true&icon_color=4F8CC9&theme=radical&hide_title=true&count_private=true)
+</div>
+
+> Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
 ## Various
 Nothing much to say honestly.<br/>
 I usually follow the [Git-flow](https://nvie.com/posts/a-successful-git-branching-model/) workflow, love reading, just playing around, experimenting. I still call it master.
+
+---
+<div align="center">
+    <strong>You can find me on Discord under <code>LZeuch#7325</code>. Just send a DM, see ya!</strong>
+</div>
