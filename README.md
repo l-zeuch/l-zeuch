@@ -1,11 +1,11 @@
 ## Hu? Oh, hi!
-> A fan of well documented, comprehensible code.
+> A fan of comprehensible, well documented code.
 
-If you found your way here you know me either in real life (welcome to the dark side!) or via Discord, most probably from the [YAGPDB](https://yagpdb.xyz/) support server.
-Either way: Take a look around, maybe you'll find something you like!
+You either know me in real life or via Discord, most probably from the [YAGPDB](https://yagpdb.xyz/) support server.
+In any case: Take a look around, maybe you find something you'll like!
 
 ## About me
-My name is Luca Zeuch, a high school student in the last year from Germany. My first programming experience started with Java, which was part of the curriculum in my computer science class, however I am good enough in C/C++ and Arduino and prefer those for more serious programming, when it comes down to optimizing. :^)<br/>
+My name is Luca Zeuch, a high school student in the last year from Germany. My first programming experience started with Java, which was part of the curriculum in my computer science class, however I am good enough in C/C++ and Arduino and prefer those for more serious programming, when it comes down to optimizing. : )<br/>
 Programming started as a hobby of mine and it will ever be, so I would not say that I am fluent in these languages, rather I am able to understand them and use them with a lot of reading.
 
 ## Current Projects
