@@ -13,7 +13,7 @@ There aren't many things you could call a serious project, however here is a sho
 
 - [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): Contributed to that repository, unfortunately however I had to remove it due to some severe bugs (which got fixed)
 - [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc): My personal repository with some high quality, well documented custom commands.
-- [`Jobsoggt`](https://github.com/Goldscar1/Jobsjoggt): A small game in C++ some friends of mine and I planned to do - currently stale due to a lot of exams
+- [`Jobsjoggt`](https://github.com/Goldscar1/Jobsjoggt): A small game in C++ some friends of mine and I planned to do - currently stale due to a lot of exams
 
 
 ## This is what I use
