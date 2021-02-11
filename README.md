@@ -1,5 +1,5 @@
 ## Hu? Oh, hi!
-> A fan of comprehensible, well documented code.
+> A sucker for comprehensible, well documented code.
 
 You either know me in real life or via Discord, most probably from the [YAGPDB](https://yagpdb.xyz/) support server.
 In any case: Take a look around, maybe you find something you'll like!
