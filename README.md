@@ -23,7 +23,9 @@ There aren't many things you could call a serious project, however here is a sho
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=191717&style=for-the-badge&logo=github)
 
 ## Stats!
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&title_color=4F8CC9&hide_border=true&icon_color=4F8CC9&theme=radical&hide_title=true&count_private=true"/>
+</div>
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
