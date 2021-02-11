@@ -18,7 +18,7 @@ There aren't many things you could call a serious project, however here is a sho
 
 ## Tech I use
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.53.1-stable&style=for-the-badge&color=007ACC&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/static/v1?label=VisualStudio&message=2019&style=for-the-badge&color=5C2D91&logo=visual-studio)
+![Visual Studio](https://img.shields.io/static/v1?label=Visual%20Studio&message=2019&style=for-the-badge&color=5C2D91&logo=visual-studio)
 ![Eclipse](https://img.shields.io/static/v1?label=Eclipse-IDE&message=2020-6&style=for-the-badge&color=Cb812C&logo=eclipse)
 ![GitHub](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=191717&style=for-the-badge&logo=github)
 
