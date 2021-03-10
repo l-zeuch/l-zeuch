@@ -35,5 +35,5 @@ I still call it master.<br>
 
 ---
 <div align="center">
-    **If you want to chat, you can send me a message on Discord `LZeuch#7325`.**
+   <strong>If you want to chat, you can send me a message on Discord <code>LZeuch#7325</code> Best shot is to join [this server](https://discord.com/invite/0vYlUK2XBKldPSMY) and then DM.</strong>
 </div>
