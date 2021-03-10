@@ -35,5 +35,5 @@ I still call it master.<br>
 
 ---
 <div align="center">
-    <strong>If you want to chat, you can send me a message on Discord `LZeuch#7325`.</strong>
+    **If you want to chat, you can send me a message on Discord `LZeuch#7325`.**
 </div>
