@@ -6,14 +6,14 @@ In any case: Take a look around, maybe you find something you'll like!
 
 ## About me
 My name is Luca Zeuch, a high school student in the last year from Germany. My first programming experience started with Java, which was part of the curriculum in my computer science class - However I am good enough in C/C++ and Arduino, which I use in parallel. Mainly for "showing off" as my classmates like to say, but I think it is quite a good way to get the basic of your code down and then implement it in a high-level language.<br/>
-Programming started as a hobby of mine and it will ever be! Planned to make career in the software industry, however I don't think that I am proficient enough for this.
+Programming started as a hobby of mine and it will always! Planned to make career in the software industry, however I don't think that I am proficient enough for this.
 
 ## My "Projects"
 There aren't many things you could call a serious project, however here is a short list:
 
 - [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): Contributed to that repository, unfortunately however I had to remove it due to some severe bugs (which got fixed)
 - [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc): My personal repository with some high quality, well documented custom commands and (soon) tutorials!
-- [`Jobsjoggt`](https://github.com/Goldscar1/Jobsjoggt): A small game in Rust some friends of mine and I planned to do - currently stale due to a lot of exams. For now, there is only a hello world code in there.
+- [`jobsjoggt`](https://github.com/Goldscar1/Jobsjoggt): A small game in Rust some friends of mine and I planned to do - currently stale due to a lot of exams. For now, there is only a hello world code in there.
 
 
 ## This is what I use
