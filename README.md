@@ -6,7 +6,7 @@ In any case: Take a look around, maybe you find something you'll like!
 
 ## About me
 My name is Luca Zeuch, a high school student in the last year from Germany. My first somewhat serious programming experience started with Java, which was part of the curriculum in my computer science class - My first languages howevere were C/C++ and Arduino, which I use in parallel. Mainly for "showing off" as my classmates like to say, but I think it is quite a good way to get the basic of your code down and then implement it in a high-level language.<br/>
-Programming started as a hobby of mine and it will always be! I lanned to make career in the software industry, however I don't think that I am proficient enough for this.<br>
+Programming started as a hobby of mine and it will always be! I planned to make career in the software industry, however I don't think that I am proficient enough for this.<br>
 Currently I am learning Rust and C# - I must admit, I totally understand the hype for Rust! I am always learning the other used languages, as well (you'll always learn new stuff).
 
 ## My "Projects"
