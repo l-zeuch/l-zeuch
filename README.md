@@ -14,7 +14,7 @@ There aren't many things you could call a serious project, however here is a sho
 
 - [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc): My personal repository with some high quality, well documented custom commands and (soon) tutorials!
 - [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): Formerly contributed to that repository, however I moved my code from there to my own repository, given by maintenance issues.
-- [`jobsjoggt`](https://github.com/Goldscar1/Jobsjoggt): A small game in Rust some friends of mine and I planned to do - currently stale due to a lot of exams. For now, there is only a hello world code in there.
+- [`jobsjoggt`](https://github.com/JuLuSiLi/jobsjoggt): A small game in Rust some friends of mine and I planned to do - currently stale due to a lot of exams. For now, there is only a hello world code in there.
 
 
 ## This is what I use
