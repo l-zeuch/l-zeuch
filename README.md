@@ -12,8 +12,8 @@ Currently I am learning Rust and C# - I must admit, I totally understand the hyp
 ## My "Projects"
 There aren't many things you could call a serious project, however here is a short list:
 
-- [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc): My personal repository with some high quality, well documented custom commands and (soon) tutorials!
-- [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): Formerly contributed to that repository, however I moved my code from there to my own repository, given by maintenance issues.
+- [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc): My personal repository with some high quality, well documented custom commands and tutorials for [YAGPDB](https://yagpdb.xyz)
+- [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc): The official YAGPDB custom commands repository; A few custom commands from me are in there!
 - [`jobsjoggt`](https://github.com/JuLuSiLi/jobsjoggt): A small game in Rust some friends of mine and I planned to do - currently stale due to a lot of exams. For now, there is only a hello world code in there.
 
 
