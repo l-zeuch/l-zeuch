@@ -37,4 +37,4 @@ I'm mostly active on Discord, you can find me on the [YAGPDB support server](htt
 
 In the offline life I am also an active lifesaver helping out at the local swimming pools, play badminton and like skiing. I like to read lots and lots, nowadays however I feel like I am lacking the time read, as well as write short-ish essays. I'm hoping to pick that up again. I enjoy cooking, be that for myself, for friends, or the entire family.
 
-Go away now : )
+Go away now : ) 
