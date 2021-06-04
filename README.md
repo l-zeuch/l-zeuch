@@ -3,7 +3,7 @@
 ## About Me
 My name is Luca Zeuch, I am a programming enthusiast and ongoing air traffic controller from Germany.
 
-I like to dip my toes into all sorts of stuff, depending on my current priorities. I also know a fair amount of Java and Arduino and like to mess around in Rust or C/C++.<br/>
+I like to dip my toes into all sorts of stuff, depending on my current priorities. I also know a fair amount of Java and Arduino and like to mess around in Rust or C/C++.<br)
 You're most likely to know me from [YAGPDB](https://yagpdb.xyz), a multi-purpose, highly customisable Discord Bot, or in "real life" - in which case, hello there!
 
 Programming started as a hobby and I don't plan on going beyond that, based on the fact that there are definitely people out there who are far more qualified than I am.
@@ -18,17 +18,15 @@ Additionally, I currently learn C# and Go, and plan on learning Rust and C more 
 
 ## Other Interesting Stuff
 ### Programs / Platforms I use
-<div align="center">
-<img src="https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord"/>
-<img src="https://img.shields.io/static/v1?label=VSCode&message=1.56.2&style=for-the-badge&color=007ACC&logo=visual-studio-code"/>
-<img src="https://img.shields.io/static/v1?label=GitBook&message=📚&color=3884ff&style=for-the-badge&logo=gitbook"/>
-<img src="https://img.shields.io/static/v1?label=Docker&message=🐳&color=2496ed&style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github"/>
-</div>
+![discord](https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord)
+![vscode](https://img.shields.io/static/v1?label=VSCode&message=1.56.2&style=for-the-badge&color=007ACC&logo=visual-studio-code)
+![gitbook](https://img.shields.io/static/v1?label=GitBook&message=📚&color=3884ff&style=for-the-badge&logo=gitbook)
+![docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=2496ed&style=for-the-badge&logo=docker)
+![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 
 ### Stats
 Everyone seems to like to see some numbers, so here come my GitHub statistics:
-<img src="https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&theme=prussian&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+![stats](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&theme=prussian&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
