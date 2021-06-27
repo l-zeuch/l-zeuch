@@ -6,7 +6,7 @@ My name is Luca Zeuch, I am a programming enthusiast and ongoing air traffic con
 I like to dip my toes into all sorts of stuff, depending on my current priorities. I also know a fair amount of Java and Arduino and like to mess around in Rust or C/C++.<br/>
 You're most likely to know me from [YAGPDB](https://yagpdb.xyz), a multi-purpose, highly customisable Discord Bot, or in "real life" - in which case, hello there!
 
-Programming started as a hobby and I don't plan on going beyond that, based on the fact that there are definitely people out there who are far more qualified than I am.
+Programming started as a hobby and I don't plan on going beyond that, based on the fact that there are definitely people out there who are far more qualified than I am. I like compiled languages. I think they require you to think about your implementation more thoroughly.
 
 ## Current Projects
 * [`yagpdb-cc`](github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord Bot.
