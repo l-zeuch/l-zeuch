@@ -9,11 +9,11 @@ You're most likely to know me from [YAGPDB](https://yagpdb.xyz), a multi-purpose
 Programming started as a hobby and I don't plan on going beyond that, based on the fact that there are definitely people out there who are far more qualified than I am. I like compiled languages. I think they require you to think about your implementation more thoroughly.
 
 ## Current Projects
-* [`yagpdb-cc`](github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord Bot.
-* [`lagpdb-cc`](github.com/l-zeuch/lagpdb-cc) - My own, well documented collection of a few more custom commands.
-* [`simple-things`](github.com/l-zeuch/simple-things) - My blog. The name may change in future, as it is a little too generic.
+* [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord Bot.
+* [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc) - My own, well documented collection of a few more custom commands.
+* [`simple-things`](https://github.com/l-zeuch/simple-things) - My blog. The name may change in future, as it is a little too generic.
 
-Apart from that I am working on contributions to [jonas747/yagpdb](github.com/jonas747/yagpdb), translating its documentation as well as being an active support member.
+Apart from that I am working on contributions to [jonas747/yagpdb](https://github.com/jonas747/yagpdb), translating its documentation as well as being an active support member.
 Additionally, I currently learn C# and Go, and plan on learning Rust and C more in-depth than I do at the moment.
 
 ## Other Interesting Stuff
