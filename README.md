@@ -1,38 +1,44 @@
-> The 'm' in "code" stands for magic.
+# :wave: Welcome
 
-## About Me
-My name is Luca Zeuch, I am a programming enthusiast and ongoing air traffic controller from Germany.
+> The "m" in "code" stands for magic.
 
-I like to dip my toes into all sorts of stuff, depending on my current priorities. I also know a fair amount of Java and Arduino and like to mess around in Rust or C/C++.<br/>
-You're most likely to know me from [YAGPDB](https://yagpdb.xyz), a multi-purpose, highly customisable Discord Bot, or in "real life" - in which case, hello there!
+Hey there! My name is Luca Zeuch, a programming enthusiast and spare time tutor from Germany.
 
-Programming started as a hobby and I don't plan on going beyond that, based on the fact that there are definitely people out there who are far more qualified than I am. I like compiled languages. I think they require you to think about your implementation more thoroughly.
+Currently I study chemistry at the University of Bremen.
+
+Outside of code, I enjoy cooking, swimming, reading, and playing Badminton. Moreover, I find joy in finding out new things and going a little offroad in terms of logic and rationale, as a healthy balance so to speak.
+
+Lastly, I am an active lifesaver helping out at the local swimming pool and lake.
 
 ## Current Projects
-* [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord Bot.
-* [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc) - My own, well documented collection of a few more custom commands.
-* [`simple-things`](https://github.com/l-zeuch/simple-things) - My blog. The name may change in future, as it is a little too generic.
 
-Apart from that I am working on contributions to [jonas747/yagpdb](https://github.com/jonas747/yagpdb), translating its documentation as well as being an active support member.
-Additionally, I currently learn C# and Go, and plan on learning Rust and C more in-depth than I do at the moment.
+* [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
+* [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc) - My own collection of a few more Custom Commands
+* [`yagpdb-cc-vim`](https://github.com/l-zeuch/yagpdb-cc-vim) - A Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
+* **YAGPDB Related:** I occasionally work on contributions to this bot, see [my fork of YAGPDB](https://github.com/l-zeuch/yagpdb)
+
+Apart from these projects I also volunteer at my old school, teaching young students all sorts of tech related things, in close collaboration with the curriculum.
 
 ## Other Interesting Stuff
-### Programs / Platforms I use
-![discord](https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord)
-![vscode](https://img.shields.io/static/v1?label=VSCode&message=1.56.2&style=for-the-badge&color=007ACC&logo=visual-studio-code)
-![gitbook](https://img.shields.io/static/v1?label=GitBook&message=📚&color=3884ff&style=for-the-badge&logo=gitbook)
-![docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=2496ed&style=for-the-badge&logo=docker)
-![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 
-### Stats
-Everyone seems to like to see some numbers, so here come my GitHub statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&theme=prussian&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+### Statistics
+
+Just a few numbers some people would want to see:
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&cache_seconds=1800)
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
+### Programs / Platforms I Use
 
-I'm mostly active on Discord, you can find me on the [YAGPDB support server](https://discord.com/invite/4udtcA5). Alternatively, you can also join [my server](https://discord.gg/tFhxypKcvm). 
+![vscode](https://img.shields.io/static/v1?label=VSCode&message=1.60.2&style=for-the-badge&color=007ACC&logo=visual-studio-code)
+![Vim](https://img.shields.io/static/v1?label=Vim&message=Neovim%20too!&style=for-the-badge&color=019733&logo=vim)
+![discord](https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord)
+![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 
-In the offline life I am also an active lifesaver helping out at the local swimming pools, play badminton and like skiing. I like to read lots and lots, nowadays however I feel like I am lacking the time read, as well as write short-ish essays. I'm hoping to pick that up again. I enjoy cooking, be that for myself, for friends, or the entire family.
+You can also [find me on German Quora](https://www.de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
 
-Go away now : ) 
+If you want to chat, send a DM to `LZeuch#7325` via [this server](https://discord.com/invite/4udtcA5). Please say you're coming from GitHub so I know you're not spam.
+
+----
+Go away now : )
