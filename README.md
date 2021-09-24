@@ -8,7 +8,7 @@ Currently I study chemistry at the University of Bremen.
 
 Outside of code, I enjoy cooking, swimming, reading, and playing Badminton. Moreover, I find joy in finding out new things and going a little offroad in terms of logic and rationale, as a healthy balance so to speak.
 
-Lastly, I am an active lifesaver helping out at the local swimming pool and lake.
+Lastly, I am an active lifeguard helping out at the local swimming pool and lake.
 
 ## Current Projects
 
