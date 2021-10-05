@@ -25,7 +25,7 @@ Apart from these projects I also volunteer at my old school, teaching young stud
 
 Just a few numbers some people would want to see:
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000)
+![Statistics](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars)
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
