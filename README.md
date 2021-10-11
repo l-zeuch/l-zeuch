@@ -31,8 +31,8 @@ Just a few numbers some people would want to see:
 
 ### Programs / Platforms I Use
 
-![vscode](https://img.shields.io/static/v1?label=VSCode&message=1.60.2&style=for-the-badge&color=007ACC&logo=visual-studio-code)
-![Vim](https://img.shields.io/static/v1?label=Vim&message=Neovim%20too!&style=for-the-badge&color=019733&logo=vim)
+![vscode](https://img.shields.io/static/v1?label=VSCode&message=1.61.0&style=for-the-badge&color=007ACC&logo=visual-studio-code)
+![NeoVim](https://img.shields.io/static/v1?label=NVim&message=v0.4.4&style=for-the-badge&color=019733&logo=neovim)
 ![discord](https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord)
 ![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 
