@@ -14,7 +14,7 @@ Lastly, I am an active lifeguard helping out at the local swimming pool and lake
 
 * [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
 * [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc) - My own collection of a few more Custom Commands
-* [`yagpdb-cc-vim`](https://github.com/l-zeuch/yagpdb-cc-vim) - A Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
+* [`yagpdb.nvim`](https://github.com/l-zeuch/yagpdb.nvim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
 * **YAGPDB Related:** I occasionally work on contributions to this bot, see [my fork of YAGPDB](https://github.com/l-zeuch/yagpdb)
 
 Apart from these projects I also volunteer at my old school, teaching young students all sorts of tech related things, in close collaboration with the curriculum.
