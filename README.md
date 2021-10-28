@@ -38,7 +38,7 @@ Just a few numbers some people would want to see:
 
 You can also [find me on German Quora](https://www.de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
 
-If you want to chat, send a DM to `LZeuch#7325` via [this server](https://discord.com/invite/4udtcA5). Please say you're coming from GitHub so I know you're not spam.
+If you want to chat, feel free to ping `LZeuch#7325` via [this server](https://discord.gg/tFhxypKcvm). Please say you're coming from GitHub so I know you're not spam.
 
 ----
 Go away now : )
