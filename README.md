@@ -37,7 +37,7 @@ Just a few numbers some people would want to see:
 ![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 ![OS](https://img.shields.io/static/v1?label=OS&message=Debian%2011&color=A81D33&style=for-the-badge&logo=debian)
 
-You can also [find me on German Quora](https://www.de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
+You can also [find me on German Quora](https://de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
 
 If you want to chat, feel free to ping `LZeuch#7325` via [this server](https://discord.gg/tFhxypKcvm). Please say you're coming from GitHub so I know you're not spam.
 
