@@ -6,9 +6,8 @@ Hey there! My name is Luca Zeuch, a programming enthusiast and spare time tutor 
 
 Currently I study chemistry at the University of Bremen.
 
-Outside of code, I enjoy cooking, swimming, reading, and playing Badminton. Moreover, I find joy in finding out new things and going a little offroad in terms of logic and rationale, as a healthy balance so to speak.
-
-Lastly, I am an active lifeguard helping out at the local swimming pool and lake.
+Outside of code, I enjoy cooking, swimming, reading, and playing Badminton.
+I like learning new stuff and forgetting them almost immediately.
 
 ## Current Projects
 
@@ -33,13 +32,13 @@ Just a few numbers some people would want to see:
 ### Programs / Platforms I Use
 
 ![Neovim](https://img.shields.io/static/v1?label=NVim&message=v0.6.0&style=for-the-badge&color=019733&logo=neovim)
-![discord](https://img.shields.io/static/v1?label=Discord&message=LZeuch%237325&color=7289da&style=for-the-badge&logo=discord)
+![discord](https://img.shields.io/static/v1?label=Discord&message=lzodd%237325&color=7289da&style=for-the-badge&logo=discord)
 ![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 ![OS](https://img.shields.io/static/v1?label=OS&message=Archlinux&color=1793D1&style=for-the-badge&logo=archlinux)
 
 You can also [find me on German Quora](https://de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
 
-If you want to chat, feel free to ping `LZeuch#7325` via [this server](https://discord.gg/tFhxypKcvm). Please say you're coming from GitHub so I know you're not spam.
+If you want to chat, feel free to ping `lzodd#7325` via [this server](https://discord.gg/tFhxypKcvm). Please say you're coming from GitHub so I know you're not spam.
 
 ----
 Go away now : )
