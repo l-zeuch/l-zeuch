@@ -12,7 +12,7 @@ I like learning new stuff and forgetting them almost immediately.
 ## Current Projects
 
 * [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
-* [`lagpdb-cc`](https://github.com/l-zeuch/lagpdb-cc) - My own collection of a few more Custom Commands
+* [`website`](https://github.com/l-zeuch/website) - My own website and blog  (early WIP)
 * [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
 * **YAGPDB Related:** I occasionally work on contributions to this bot, see [my fork of YAGPDB](https://github.com/l-zeuch/yagpdb)
 
@@ -24,7 +24,7 @@ Apart from these projects I also volunteer at my old school, teaching young stud
 
 Just a few numbers some people would want to see:
 
-| ![Statistics](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&exclude_repo=bored,doots) |
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000) |
 | --- | --- |
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
