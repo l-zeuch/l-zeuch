@@ -20,6 +20,8 @@ Apart from these projects I also volunteer at my old school, teaching young stud
 
 ## Other Interesting Stuff
 
+* My [Public PGP Key](https://gist.github.com/l-zeuch/d6fa37be60e8ff7f65baac67818dd5e9)
+
 ### Statistics
 
 Just a few numbers some people would want to see:
