@@ -12,7 +12,7 @@ I like learning new stuff and forgetting them almost immediately.
 ## Current Projects
 
 * [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
-* [`website`](https://github.com/l-zeuch/website) - My own website and blog  (early WIP)
+* [`lzeuch.de`](https://github.com/l-zeuch/lzeuch.de) - My own website and blog  (early WIP)
 * [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
 * **YAGPDB Related:** I occasionally work on contributions to this bot, see [my fork of YAGPDB](https://github.com/l-zeuch/yagpdb)
 
