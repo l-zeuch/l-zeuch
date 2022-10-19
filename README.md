@@ -38,9 +38,24 @@ Just a few numbers some people would want to see:
 ![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 ![OS](https://img.shields.io/static/v1?label=OS&message=Archlinux&color=1793D1&style=for-the-badge&logo=archlinux)
 
-You can also [find me on German Quora](https://de.quora.com/profile/Luca-Zeuch), though I'm not very active there.
 
-If you want to chat, feel free to ping `lzodd#7325` via [this server](https://discord.gg/tFhxypKcvm). Please say you're coming from GitHub so I know you're not spam.
+If you want to chat, feel free to ping `lzodd#7325` via the Discord server linked below. Please say you're coming from GitHub so I know you're not spam.
 
 ----
-Go away now : )
+<center>
+  <span>
+  <nobr>
+  <a href="https://gist.github.com/l-zeuch/d6fa37be60e8ff7f65baac67818dd5e9">
+    <img src="assets/lock.svg">
+  </a>
+  <p> | </p>
+  <a href="https://lzeuch.de">
+    <img src="assets/globe.svg">
+  </a>
+  <p> | </p>
+  <a href="https://discord.gg/tFhxypKcvm">
+    <img src="assets/discord.svg">
+  </a>
+  <span>
+  <nobr>
+<center>
