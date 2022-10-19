@@ -18,10 +18,6 @@ I like learning new stuff and forgetting them almost immediately.
 
 Apart from these projects I also volunteer at my old school, teaching young students all sorts of tech related things, in close collaboration with the curriculum.
 
-## Other Interesting Stuff
-
-* My [Public PGP Key](https://gist.github.com/l-zeuch/d6fa37be60e8ff7f65baac67818dd5e9)
-
 ### Statistics
 
 Just a few numbers some people would want to see:
