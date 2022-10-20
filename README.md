@@ -11,12 +11,13 @@ I like learning new stuff and forgetting them almost immediately.
 
 ## Current Projects
 
-* [`yagpdb-cc`](https://github.com/yagpdb-cc/yagpdb-cc/) - A collection of Custom Commands for YAGPDB, a multipurpose Discord bot.
+(In no particular order)
+
+* [`studip-nord`](https://github.com/l-zeuch/studip-nord) - A Nord theme for [StudIP](elearning.uni-bremen.de)
 * [`lzeuch.de`](https://github.com/l-zeuch/lzeuch.de) - My own website and blog
 * [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
-* **YAGPDB Related:** I occasionally work on contributions to this bot, see [my fork of YAGPDB](https://github.com/l-zeuch/yagpdb)
 
-Apart from these projects I also volunteer at my old school, teaching young students all sorts of tech related things, in close collaboration with the curriculum.
+Maybe the one or other side project here and there, but overall I try to focus on the above ones.
 
 ### Statistics
 
