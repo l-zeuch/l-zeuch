@@ -13,7 +13,7 @@ I like learning new stuff and forgetting them almost immediately.
 
 (In no particular order)
 
-* [`studip-nord`](https://github.com/l-zeuch/studip-nord) - A Nord theme for [StudIP](elearning.uni-bremen.de)
+* [`studip-nord`](https://github.com/l-zeuch/studip-nord) - A Nord theme for [StudIP](https://elearning.uni-bremen.de)
 * [`lzeuch.de`](https://github.com/l-zeuch/lzeuch.de) - My own website and blog
 * [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
 
