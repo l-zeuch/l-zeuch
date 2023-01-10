@@ -23,7 +23,7 @@ Maybe the one or other side project here and there, but overall I try to focus o
 
 Just a few numbers some people would want to see:
 
-| ![Statistics](https://github-readme-stats-l-zeuch.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=truen&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars) | ![Top Languages](https://github-readme-stats-l-zeuch.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000) |
+| ![Statistics](https://github-readme-stats-l-zeuch.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars) | ![Top Languages](https://github-readme-stats-l-zeuch.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000) |
 | --- | --- |
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
