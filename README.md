@@ -30,7 +30,7 @@ Just a few numbers some people would want to see:
 
 ### Programs / Platforms I Use
 
-![Neovim](https://img.shields.io/static/v1?label=NVim&message=v0.9.0&style=for-the-badge&color=019733&logo=neovim)
+![Neovim](https://img.shields.io/static/v1?label=NVim&message=v0.9.1&style=for-the-badge&color=019733&logo=neovim)
 ![discord](https://img.shields.io/static/v1?label=Discord&message=lzodd%237325&color=7289da&style=for-the-badge&logo=discord)
 ![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
 ![OS](https://img.shields.io/static/v1?label=OS&message=Archlinux&color=1793D1&style=for-the-badge&logo=archlinux)
