@@ -41,7 +41,7 @@ If you want to chat, feel free to ping `lzodd` via the Discord server linked bel
 ----
 
 <p align="center">
-  <a href="https://gist.github.com/l-zeuch/d6fa37be60e8ff7f65baac67818dd5e9">GPG Key</a> | 
+  <a href="https://gist.github.com/l-zeuch/133a54b766631d56c346fc7de98fda13">GPG Key</a> | 
   <a href="https://lzeuch.de">Website</a> | 
   <a href="https://discord.gg/tFhxypKcvm">Discord</a>
 </p>
