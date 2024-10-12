@@ -27,6 +27,7 @@ For general chat, feel free to mention `lzodd` on the Discord server linked belo
 out to me at `l-zeuch [at] email [dot] de`. Please say that you're coming from GitHub, so I don't mistake you for spam.
 In other words, clearly state your intentions.
 
+<!--
 ### Stats
 
 Because almost everyone seems to have them on their profile, here are mine:
@@ -38,7 +39,7 @@ Because almost everyone seems to have them on their profile, here are mine:
 [top-langs]: https://github-readme-stats-l-zeuch.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ----
 
 <p align="center">
