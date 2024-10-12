@@ -1,47 +1,48 @@
 # :wave: Welcome
 
-> The "m" in "code" stands for magic.
+> The "m" in "code" means "magic".
 
-Hey there! My name is Luca Zeuch, a programming enthusiast and spare time tutor from Germany.
+Hi! I'm Luca Zeuch, a chemistry student at the [Universität Bremen](https://uni-bremen.de/en). My activity primarily
+revolves around [YAGPDB](https://yagpdb.xyz), a Discord bot I contribute(d) to and maintain its new documentation.
 
-Currently I study chemistry at the University of Bremen.
+Currently, my time is mostly spent on my studies (Organic Chemistry is a meanie), though I do try to squeeze in the odd
+learning session here and there. At the moment, I am *attempting* to learn the [Go Programming Language](https://go.dev).
 
-Outside of code, I enjoy cooking, swimming, reading, and playing Badminton.
-I like learning new stuff and forgetting them almost immediately.
+### Projects
 
-## Current Projects
+As of now, I primarily work on [YAGPDB's documentation](https://github.com/botlabs-gg/yagpdb-docs-v2), utilising
+[Hugo](https://gohugo.io) to generate the static site. Some of my other projects include:
 
-(In no particular order)
+- A (Neo)Vim [syntax plugin][yagpdb.vim] for YAGPDB's custom scripting language
+- My [flailing attempts at a website][lzeuch.de] (offline for now)
+- A [game I wrote in 2018][game] as part of a CS course I took back then (archived)
 
-* [`studip-nord`](https://github.com/l-zeuch/studip-nord) - A Nord theme for [StudIP](https://elearning.uni-bremen.de)
-* [`lzeuch.de`](https://github.com/l-zeuch/lzeuch.de) - My own website and blog
-* [`yagpdb.vim`](https://github.com/l-zeuch/yagpdb.vim) - An (N)Vim plugin to support syntax highlighting of YAGPDB Custom Commands.
+[yagpdb.vim]: https://github.com/l-zeuch/yagpdb.vim
+[lzeuch.de]: https://github.com/l-zeuch/lzeuch.de
+[game]: https://github.com/l-zeuch/inf218-game
 
-Maybe the one or other side project here and there, but overall I try to focus on the above ones.
+### Contact
 
-### Statistics
+For general chat, feel free to mention `lzodd` on the Discord server linked below. If you prefer email, you can reach
+out to me at `l-zeuch [at] email [dot] de`. Please say that you're coming from GitHub, so I don't mistake you for spam.
+In other words, clearly state your intentions.
 
-Just a few numbers some people would want to see:
+### Stats
 
-| ![Statistics](https://github-readme-stats-l-zeuch.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars) | ![Top Languages](https://github-readme-stats-l-zeuch.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000) |
-| --- | --- |
+Because almost everyone seems to have them on their profile, here are mine:
+
+| ![stats] | ![top-langs] |
+| -------- | ------------ |
+
+[stats]: https://github-readme-stats-l-zeuch.vercel.app/api?username=l-zeuch&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide=stars
+[top-langs]: https://github-readme-stats-l-zeuch.vercel.app/api/top-langs/?username=l-zeuch&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000
 
 > Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-### Programs / Platforms I Use
-
-![Neovim](https://img.shields.io/static/v1?label=NVim&message=v0.9.1&style=for-the-badge&color=019733&logo=neovim)
-![discord](https://img.shields.io/static/v1?label=Discord&message=lzodd&color=7289da&style=for-the-badge&logo=discord)
-![github](https://img.shields.io/static/v1?label=GitHub&message=l-zeuch&color=181717&style=for-the-badge&logo=github)
-![OS](https://img.shields.io/static/v1?label=OS&message=Archlinux&color=1793D1&style=for-the-badge&logo=archlinux)
-
-
-If you want to chat, feel free to ping `lzodd` via the Discord server linked below. Please say you're coming from GitHub so I know you're not spam. I do not accept friend requests.
 
 ----
 
 <p align="center">
-  <a href="https://gist.github.com/l-zeuch/133a54b766631d56c346fc7de98fda13">GPG Key</a> | 
-  <a href="https://lzeuch.de">Website</a> | 
+  <a href="https://github.com/l-zeuch.gpg">GPG Key</a> | 
+  <a href="https://lzeuch.de">Website</a> (defunct) | 
   <a href="https://discord.gg/tFhxypKcvm">Discord</a>
 </p>
